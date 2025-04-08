@@ -68,6 +68,3 @@ MazeEscape is a simple console-based maze game written in C#. The player navigat
 - .NET 6
 - Visual Studio 2022
 
-## License
-
-This project is licensed under the MIT License.
