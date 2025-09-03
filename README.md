@@ -30,7 +30,3 @@ MazeEscape/
 ├── EmptySpace.cs       # Represents walkable space
 └── IMazeObj.cs         # Interface for maze objects
 ```
-```bash
-git clone https://github.com/M7md-Galal/maze-escape.git
-cd maze-escape
-```
